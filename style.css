@@ -1,0 +1,23 @@
+body{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+.navbar img{
+    width: 15rem;
+   
+}
+.navbar a{
+    color: black;
+    font-weight: 600;
+    
+}
+
+
+
+   
+
+span{
+    color: rgb(33, 175, 33);
+    font-weight: 700;
+}
+
+
